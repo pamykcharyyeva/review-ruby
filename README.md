@@ -1,8 +1,5 @@
 
 
-## Instructions
-
-Take 30 minutes and answer the following questions together with your group. Take turns playing around with the code provided in Pry or IRB.
 
 ## Questions
 
@@ -108,6 +105,4 @@ foods = {"pie" => "delicious", "broccoli" => "not delicious",
   }
 ```
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/immersive-week-1-discussion-questions'>Immersive Week 1 Discussion Questions</a> on Learn.co and start learning to code for free.</p>
-# review-ruby
-# review-ruby
+
